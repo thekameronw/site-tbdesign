@@ -1,0 +1,11 @@
+.slideshow {
+	width:80%;
+	height:420px;
+	margin:15px auto 10px;
+	padding:5px;
+
+	-moz-box-shadow: 1px 0px 10px #e1e1e1;	
+	-webkit-box-shadow: 1px 0px 10px #e1e1e1;	
+	-o-box-shadow: 1px 0px 10px #e1e1e1;	
+	box-shadow: 1px 0px 10px #e1e1e1;	
+}
